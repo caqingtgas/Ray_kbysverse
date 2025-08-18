@@ -1,6 +1,6 @@
 # Ray_kbysverse 🌌
 
-欢迎造访 **Ray_kbys宇宙 ** ，此处为基于RayK_DigitalArtBook(ver2.6.0)以及其他来源信息的中文数据库，用于收集、整理和归档有关 **Ray_kbys（Ray.k）** 作品的相关信息。  
+欢迎造访 **Ray_kbys宇宙** ，此处为基于RayK_DigitalArtBook(ver2.6.0)以及其他来源信息的中文数据库，用于收集、整理和归档有关 **Ray_kbys（Ray.k）** 作品的相关信息。  
 
 ---
 ## 📖 项目简介
