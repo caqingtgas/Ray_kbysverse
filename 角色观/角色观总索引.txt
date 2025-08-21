@@ -1,0 +1,14 @@
+[这个文件是Ray.k创作的所有角色的总索引，列出了所有已知角色。]
+[分行用于相邻关系分组。]
+
+世界观A（Unique）：
+【Sylvie】【Aurelia】【Nephy】【Ferrum】【Fia】【Kcasio】
+【臼井 幸】【常見 明美】【落合 知頼】【福永 護】【佐渡川 瑠唯】【柊 真弓】【永下 葉美】【白神 玄花】【谷山 身樹】
+【深杉 愛子】
+【凤蝶】
+【大房 静子】
+【Retina】【Tibia】【Ulna】
+【中内 空】
+
+世界观B（Myth）：
+【Verdy】【Rust】【Iris】【Cilia】【Dish】【Phasma】【Lotus】【Naughty】【Hex】【Darl】【Ailine】
