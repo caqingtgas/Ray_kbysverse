@@ -1,0 +1,9 @@
+[这个文件是时间“未来”的详细信息，也作为其下属角色和故事的索引。]
+[顿号用于相邻关系分组。]
+
+“未来”
+涉及角色：
+【Noxia】【Vaile】【Libera】、【V】【D】【Cavy】【Bubble】【Mesa】【Gabe】【Lexie】【Chuckle】【Aldi】【Dirt】【Visca】【Trish】【Snow】【Hurley】【Loop】【Blunt】【Wheel】【Bacon】【Ayn】【Cork】、
+
+归属世界观：
+世界观B（Myth）

@@ -1,0 +1,21 @@
+[这个文件是地点Crossdale的详细信息，也作为其下属角色和故事的索引。]
+[顿号用于相邻关系分组。]
+
+Crossdale（クロスデール）（克罗斯戴尔）
+概况：
+位于名为Straive（ストライヴ）（斯特雷弗）的地区，是个拥有西洋文化古老街景的近代小镇。虽然住着不少怪人，但总体上还是个和平的城镇。位于内陆，不临海，但附近有河流与湖泊流经形成的茂密森林。虽然有些古朴、略带乡土气息，但居住起来相当舒适。
+
+地名由来：
+取自“流浪者 (stray) 在此交错 (cross) 往来之地”。
+
+题外话：
+并非以真实地点或具体时代为原型，所以时代设定和准确位置基本交由读者自由想象。
+
+涉及角色：
+【Sylvie】【Aurelia】【Nephy】【Ferrum】【Kaesio】【Fia】、
+
+下属故事：
+《DeterminableUnstable》《TeachingFeeling》《FlappyHumming》《ReJigging》《DressedPassion》
+
+归属世界观：
+世界观A（Unique）
