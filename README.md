@@ -1,4 +1,4 @@
-# Ray_kbysverse 🌌（施工中）
+# Ray_kbysverse 🌌
 
 欢迎造访 **Ray_kbys宇宙** ，此处为基于 **Ray_kbys相关作品玩家讨论圈** 信息的中文数据库，用于收集、整理和归档有关 **Ray_kbys（Ray.k）** 作品的相关信息。  
 
