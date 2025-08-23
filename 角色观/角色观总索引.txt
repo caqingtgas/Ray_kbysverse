@@ -1,14 +1,21 @@
 [这个文件是Ray.k创作的所有角色的总索引，列出了所有已知角色。]
 [分行用于相邻关系分组。]
+[共38+41（世界观A+世界观B）个]
 
 世界观A（Unique）：
 【Sylvie】【Aurelia】【Nephy】【Ferrum】【Fia】【Kcasio】
 【臼井 幸】【常見 明美】【落合 知頼】【福永 護】【佐渡川 瑠唯】【柊 真弓】【永下 葉美】【白神 玄花】【谷山 身樹】
+【Verdy】【Rust】【Iris】【Cilia】【Dish】【Phasma】【Lotus】【Naughty】【Hex】【Darl】【Ailine】
 【深杉 愛子】
 【凤蝶】
 【大房 静子】
-【Retina】【Tibia】【Ulna】
 【中内 空】
+【Retina】【Tibia】【Ulna】【崩解中的挚爱（临时代号）（或称逐渐腐败的爱人）（暂无详情）】
+【Orna】【Wriggly】【标签作之A（临时代号）（暂无详情）】【标签作之B（临时代号）（暂无详情）】
+
 
 世界观B（Myth）：
-【Verdy】【Rust】【Iris】【Cilia】【Dish】【Phasma】【Lotus】【Naughty】【Hex】【Darl】【Ailine】
+【Libera】【Noxia】【Vaile】
+【Drosera Cephalopod】【Flood】【Ribby Sternum】【Slay】【Stella】【Sol】【Radiant】【Raze】【Brillat Gourmet】【Arterio Vein】【狼男（临时代号）（暂无详情）】【驱魔师、吸血鬼猎人（临时代号）（暂无详情）】【宇宙人（临时代号）（暂无详情）】【研究者（临时代号）（暂无详情）】
+【Slize】【Blas】【Gaz】【Flow】
+【V】【D】【Cavy】【Bubble】【Mesa】【Gabe】【Lexie】【Chuckle】【Loop】【Blunt】【Dirt】【Aldi】【Trish】【Visca】【Hurley】【Snow】【Bacon】【Wheel】【Cork】【Ayn】
